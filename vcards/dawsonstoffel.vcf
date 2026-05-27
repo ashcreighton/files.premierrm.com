@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Dawson Stoffel
+N;CHARSET=UTF-8:Stoffel;Dawson;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:dstoffel@premierrm.com
+TEL;TYPE=WORK,VOICE:623-243-7263
+ADR;CHARSET=UTF-8;TYPE=WORK:;;1523 W. Whispering Wind Dr.\, Ste. 250;Phoenix;AZ;85085;
+TITLE;CHARSET=UTF-8:Marketing and Business Development
+ORG;CHARSET=UTF-8:Premier Risk Management
+URL;type=WORK;CHARSET=UTF-8:https://premierrm.com
+REV:2026-05-27T19:25:58.019Z
+END:VCARD
